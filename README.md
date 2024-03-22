@@ -73,8 +73,8 @@ Current beta-version works fine on Windows 10/11 with last updates.
 - CyberPunk NFTs and Ability Cards: Before diving into the game, you'll need to acquire three CyberPunk NFTs and three Ability Cards. These can be purchased from the TensorTrade marketplace. Simply browse through the available options, select the cyberpunks and cards that best suit your playstyle, and make the purchase using your Solana wallet connected to Phantom.
 
 ### Gameplay
-[x] Start with PvE Mode: We recommend starting your Cyber-Punkz journey with the Player-vs-Environment (PvE) mode. This mode allows you to familiarize yourself with the game mechanics, battle strategies, and level progression without the pressure of competing against other players.
-[x] Progression and PvP: As you gain experience and level up your cyberpunks, you'll unlock access to Player-vs-Player (PvP) battles. Engage in intense one-on-one showdowns against other players, test your skills, and climb the ranks to earn $CBPZ tokens.
+- [x] Start with PvE Mode: We recommend starting your Cyber-Punkz journey with the Player-vs-Environment (PvE) mode. This mode allows you to familiarize yourself with the game mechanics, battle strategies, and level progression without the pressure of competing against other players.
+- [x] Progression and PvP: As you gain experience and level up your cyberpunks, you'll unlock access to Player-vs-Player (PvP) battles. Engage in intense one-on-one showdowns against other players, test your skills, and climb the ranks to earn $CBPZ tokens.
 
 #### Have Fun!
 CyberPunks2088 Game offers an immersive and engaging experience set in the futuristic world of Night City. Explore the bustling streets, assemble your team of cyberpunks, and embark on thrilling adventures filled with strategic battles and exciting challenges. Get ready to unleash your inner cyberpunk and carve your path to glory in this action-packed card game!
