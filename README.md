@@ -25,14 +25,14 @@ Welcome to CyberPunks2088 Game, a thrilling dive into the world of cyberpunks wh
 In CyberPunks2088, players are thrust into the heart of Night City, a bustling metropolis where cyberpunks vie for power and prestige. Assemble your team of cyber-enhanced fighters, each with their own unique abilities and traits, and engage in strategic battles to assert your dominance in this dystopian world.
 
 ### Features
-- Turn-based Card Battles: Engage in tactical battles using CyberPunk Fighter Cards and Ability Cards.
-- Unique CyberPunk Characters: Choose from various casts of cyberpunks, each with distinct strengths and weaknesses.
-- Popularity Rating: Battle for supremacy in Night City, striving to increase your popularity and climb the cyberpunk hierarchy.
-- $CBPZ Token Rewards: Earn $CBPZ tokens by emerging victorious in PvP and PvE battles, which can be used to acquire new cyberpunks or enhance existing ones.
-- Enhancement System: Upgrade your cyberpunks' abilities and stats to unlock their full potential.
-- PvP and PvE Modes: Test your skills against other players in PvP mode or tackle challenging AI opponents in PvE mode.
-- Strategic Depth: Plan your moves carefully and leverage your cyberpunks' abilities to outwit your opponents.
-- Community Interaction: Join a vibrant community of players, discuss strategies, and compete in tournaments to earn rewards and recognition.
+-- Turn-based Card Battles: Engage in tactical battles using CyberPunk Fighter Cards and Ability Cards.
+-- Unique CyberPunk Characters: Choose from various casts of cyberpunks, each with distinct strengths and weaknesses.
+-- Popularity Rating: Battle for supremacy in Night City, striving to increase your popularity and climb the cyberpunk hierarchy.
+-- $CBPZ Token Rewards: Earn $CBPZ tokens by emerging victorious in PvP and PvE battles, which can be used to acquire new cyberpunks or enhance existing ones.
+-- Enhancement System: Upgrade your cyberpunks' abilities and stats to unlock their full potential.
+-- PvP and PvE Modes: Test your skills against other players in PvP mode or tackle challenging AI opponents in PvE mode.
+-- Strategic Depth: Plan your moves carefully and leverage your cyberpunks' abilities to outwit your opponents.
+-- Community Interaction: Join a vibrant community of players, discuss strategies, and compete in tournaments to earn rewards and recognition.
 
 ## Gameplay Mechanics
 In CyberPunks2088 Game, battles are conducted in a turn-based format, where players take alternating turns to deploy their CyberPunk NFTs and use Ability Cards to gain the upper hand. Each turn allows players to perform various actions, including attacking opponents, activating abilities, or using items.
