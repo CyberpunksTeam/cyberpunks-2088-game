@@ -89,7 +89,7 @@ Contributing Code, Artwork, or Assets. If you're a developer, artist, or designe
 For any inquiries, feedback, or support related to CyberPunks2088 Game, you can reach out to us through the following channels:
 - Email: contact@cyberpunks-2088.com
 - Twitter: [@cyberpunks2088game]()
-- Discord: [Cyber-Punks2088 Discord Server]()
+- Discord: [Cyber-Punks2088 Discord Server](https://discord.gg/u8b35cHj)
 - GitHub Repository: [CyberpunksTeam GitHub](https://github.com/CyberpunksTeam/cyberpunks-2088-game)
 
 <img src="assets/cyberteam.png">
